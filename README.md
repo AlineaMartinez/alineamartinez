@@ -1,4 +1,4 @@
-<h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" > Olá, sou Aline Martinez, desenvolvedora </h1>
+<h1 align = "center"> <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px" > Olá, sou Aline Martinez, desenvolvedora de sistemas! </h1>
 <p align="center">
   
 #### 📬 Encontre-me em  
@@ -16,17 +16,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alineamartinez&theme=dracula&hide_border=true" width= 400>
 </p>
 
+#### - Idiomas e ferramentas ...
+<p align = "center">
 
-### - Idiomas e ferramentas ...
-
-<p align="center">
-  <! - Para mais ícones, siga https://github.com/MikeCodesDotNET/ColoredBadges ->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt = "html" style = "vertical-align: top; margin: 4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt = "csharp" style = "vertical-align: top; margin: 4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt = "js" style = "vertical-align: top; margem: 4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt = "cloud" style = "vertical-align: top; margem: 4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt = "aws" style = "vertical-align: top; margem: 4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt = "vscode" style = "vertical-align: top; margin: 4px">
-  <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt = "vscode" style = "vertical-align: top; margin: 4px">
-
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align: top; margin: 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align: top; margin: 4px">   
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align: top; margem: 4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align: top; margin: 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align: top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align: top; margin: 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align: top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align: top; margem: 4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align: top; margem: 4px">
 </p>
+
