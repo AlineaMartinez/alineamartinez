@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alineamartinez&show_icons=true&theme=dracula" width= 400>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineamartinez&layout=compact&langs_count=7&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineamartinez&layout=compact&langs_count=7&theme=dracula" width= 480 />
 </p>
 
 #### - Idiomas e ferramentas ...
@@ -30,4 +30,4 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align: top; margem: 4px">
 </p>
 
- ![ Animação de cobra ] (https://github.com/AlineaMartinez/alineamartinez/blob/output/github-contribution-grid-snake.svg)
+ ![ Animação de cobra ](https://github.com/AlineaMartinez/alineamartinez/blob/output/github-contribution-grid-snake.svg)
