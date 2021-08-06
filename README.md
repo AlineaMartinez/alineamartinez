@@ -11,10 +11,11 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alineamartinez&show_icons=true&theme=dracula" width= 400>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineamartinez&layout=compact&langs_count=7&theme=dracula" width= 480 />
-</p>
+<div style="align-items: center>
+  <a href="https://github.com/alineamartinez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alineamartinez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineamartinez&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
 #### - Idiomas e ferramentas ...
 <p align = "center">
