@@ -30,4 +30,4 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align: top; margem: 4px">
 </p>
 
- ![ Animação de cobra ] (https://github.com/alineamartinez/alineamartinez/blob/output/github-contribution-grid-snake.svg)
+ ![ Animação de cobra ] (https://github.com/AlineaMartinez/alineamartinez/blob/output/github-contribution-grid-snake.svg)
